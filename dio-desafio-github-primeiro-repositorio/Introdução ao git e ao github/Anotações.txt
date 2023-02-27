@@ -1,0 +1,8 @@
+#comandos basicos git bash
+cd<pasta local>             : se locomover pelas pastas e arquivos
+cd..                        : Retorna a pasta anterior
+git init                    : Criar um novo repositorio
+git commit -m "Comentatario": Atualiza o historico do repositorio
+git status                  : Ver os status da pasta
+git add .                   : atualiza e add os novos arquivos
+git push origin main        : por os novos arquivos no repositorio online
